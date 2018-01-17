@@ -1,1 +1,1 @@
-"# gradle-node-ruby-dockerimage" 
+# gradle-node-ruby-dockerimage
